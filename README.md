@@ -1,2 +1,1 @@
-# Carruel
-ejemplo Carrusel
+# Carrucel
